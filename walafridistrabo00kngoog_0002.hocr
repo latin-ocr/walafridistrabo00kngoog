@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./walafridistrabo00kngoog_0002.png"; bbox 0 0 750 1206; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 185 205 536 301">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 185 205 526 291">
+     <span class='ocr_line' id='line_1_1' title="bbox 206 205 526 291; baseline 0 -49"><span class='ocrx_word' id='word_1_1' title='bbox 206 222 350 242; x_wconf 82' lang='lat' dir='ltr'>FROMTHE·</span> <span class='ocrx_word' id='word_1_2' title='bbox 351 205 457 242; x_wconf 64' lang='grc' dir='ltr'>ΗΒΚΑΚΥ</span> <span class='ocrx_word' id='word_1_3' title='bbox 463 205 526 291; x_wconf 57' lang='lat' dir='ltr'>OF]</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 185 252 536 301; baseline 0 -29"><span class='ocrx_word' id='word_1_4' title='bbox 185 275 187 278; x_wconf 27' lang='lat' dir='ltr'>v</span> <span class='ocrx_word' id='word_1_5' title='bbox 230 252 353 291; x_wconf 59' lang='lat' dir='ltr'>KONFAD·</span> <span class='ocrx_word' id='word_1_6' title='bbox 354 253 536 301; x_wconf 77' lang='lat' dir='ltr'>BURDACH</span> <span class='ocrx_word' id='word_1_7' title='bbox 480 260 485 264; x_wconf 59' lang='lat'>&lt;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 737 0 738 568">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 737 0 738 568">
+     <span class='ocr_line' id='line_1_3' title="bbox 737 0 738 568; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 737 0 738 568; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 41 168 742 1197">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 41 168 742 1197">
+     <span class='ocr_line' id='line_1_4' title="bbox 41 168 742 1197; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 41 168 742 1197; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

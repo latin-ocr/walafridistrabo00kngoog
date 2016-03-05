@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./walafridistrabo00kngoog_0021.png"; bbox 0 0 2896 4828; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 228 1627 1086 1798">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 228 1627 1086 1798">
+     <span class='ocr_line' id='line_1_1' title="bbox 228 1627 1086 1798; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 228 1627 231 1632; x_wconf 33' lang='lat'>⁵</span> <span class='ocrx_word' id='word_1_2' title='bbox 272 1696 674 1798; x_wconf 79' lang='lat' dir='ltr'>WALAFRIDI</span> <span class='ocrx_word' id='word_1_3' title='bbox 706 1695 1086 1796; x_wconf 73' lang='lat' dir='ltr'>STRABONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 608 1933 823 2000">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 608 1933 823 2000">
+     <span class='ocr_line' id='line_1_2' title="bbox 608 1933 823 2000; baseline -0.009 0"><span class='ocrx_word' id='word_1_4' title='bbox 608 1933 753 2000; x_wconf 72' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_5' title='bbox 819 1943 823 1954; x_wconf 90' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 149 2131 1214 2260">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 149 2131 1214 2260">
+     <span class='ocr_line' id='line_1_3' title="bbox 149 2131 1214 2260; baseline -0.003 -14"><span class='ocrx_word' id='word_1_6' title='bbox 149 2168 206 2246; x_wconf 76' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_7' title='bbox 236 2166 438 2246; x_wconf 64' lang='lat' dir='ltr'>amanus</span> <span class='ocrx_word' id='word_1_8' title='bbox 469 2168 523 2246; x_wconf 75' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_9' title='bbox 556 2164 846 2245; x_wconf 69' lang='lat' dir='ltr'><strong>ffleREMENTls</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 870 2131 1137 2260; x_wconf 68' lang='lat' dir='ltr'><strong>QUARUNDAM</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1168 2165 1214 2244; x_wconf 80' lang='lat' dir='ltr'>IN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 202 2387 1166 2512">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 202 2387 1166 2512">
+     <span class='ocr_line' id='line_1_4' title="bbox 202 2387 1166 2512; baseline 0 -46"><span class='ocrx_word' id='word_1_12' title='bbox 202 2387 601 2512; x_wconf 52' lang='lat' dir='ltr'>OBSERVATIONIBUS</span> <span class='ocrx_word' id='word_1_13' title='bbox 631 2388 977 2468; x_wconf 76' lang='lat' dir='ltr'><strong>EGO&#39;LESIASTIOIS</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1009 2389 1166 2468; x_wconf 80' lang='lat' dir='ltr'>RERUM.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1452 4828">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1452 4828">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1452 4828; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1452 4828; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
